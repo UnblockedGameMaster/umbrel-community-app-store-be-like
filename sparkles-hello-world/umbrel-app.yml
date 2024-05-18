@@ -1,29 +1,24 @@
 manifestVersion: 1
-id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+id: homarr
+name: Homarr
+tagline: One integration to rule them *arr
+icon: https://homarr.dev/img/logo.png
 category: Development
 version: "1.0.0"
-port: 4000
+port: 8898
 description: >-
-  Add your app's description here.
+  The goal of this project is leverage your media server's services to provide powerful and friendly discord and HomeAssistant interfaces.
 
-
-  You can also add newlines!
-
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
+developer: Homarr
+website: https://homarr.dev/
+submitter: jae
+submission: https://github.com/justanediot/umbrel-hello-world-app
+repo: https://github.com/justanediot/umbrel-hello-world-app
 support: https://github.com/getumbrel/umbrel-hello-world-app/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
+  - https://homarr.dev/img/pictures/homarr-devices-preview/compressed/homarr-devices-2d-mockup-flat-shadow-dark-compressed.webp
 releaseNotes: >-
-  Add what's new in the latest version of your app here.
+  I added it
 dependencies: []
 path: ""
 defaultUsername: ""
